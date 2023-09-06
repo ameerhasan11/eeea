@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui;
+}
+body{
+    background: rgb(213, 225, 239);
+}
+
+.a{
+    height: 540px;
+    width: 350px;
+    background: white;
+   margin-left: 40%;
+   margin-top: 25vh;
+   border-radius: 20px;
+   
+   
+}
+.s{
+    height: 310px; 
+    width: 300px;  
+    border-radius: 20px;
+    margin: 20px 20px;
+    margin-left: 25px;
+}
+.w{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+.e{
+    text-align: center;
+    color: gray;
+    margin-top: -20px;
+}
